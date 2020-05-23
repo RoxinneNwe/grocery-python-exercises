@@ -1,3 +1,5 @@
-This is a sample of simulation customer buying to grocery.
+Enrolled in eDoxi Training with below started and finished date:
+Date:
+Learning outcome:
 
-From grocery.py, is the started codebase as public where every developer enhance, update the functionalities before deployment on production.
+This applies every session by folder with date, along each folder with README.MD
